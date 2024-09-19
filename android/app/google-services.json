@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909071497157",
+    "project_id": "caringiostudent",
+    "storage_bucket": "caringiostudent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909071497157:android:b87cbb3da4977a022cbdac",
+        "android_client_info": {
+          "package_name": "com.caringio.busdrivertracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvgsoSEk0K2QiRVQc9RYCiz3qtRC5BIWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
